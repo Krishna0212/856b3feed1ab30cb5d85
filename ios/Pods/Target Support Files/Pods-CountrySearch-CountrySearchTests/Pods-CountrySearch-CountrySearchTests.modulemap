@@ -1,0 +1,6 @@
+module Pods_CountrySearch_CountrySearchTests {
+  umbrella header "Pods-CountrySearch-CountrySearchTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
